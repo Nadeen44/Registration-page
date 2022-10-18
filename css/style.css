@@ -1,0 +1,13 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar{
+    border-bottom: 5px solid #0098DA;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url(../images/home.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
